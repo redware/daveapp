@@ -78,6 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dave.txt" />
+    <Content Include="stamati.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
